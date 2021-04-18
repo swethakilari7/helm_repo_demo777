@@ -3,7 +3,7 @@ entries:
   gitrepotest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-18T06:23:25.35527665Z"
+    created: "2021-04-18T06:40:15.113039831Z"
     description: A Helm chart are pushing to Github
     digest: b634fe5477cda6665b00556d735ceeae2f566baf16ca7c0472963082980ce680
     name: gitrepotest
@@ -11,4 +11,4 @@ entries:
     urls:
     - gitrepotest-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-18T06:23:25.354468576Z"
+generated: "2021-04-18T06:40:15.112313895Z"
